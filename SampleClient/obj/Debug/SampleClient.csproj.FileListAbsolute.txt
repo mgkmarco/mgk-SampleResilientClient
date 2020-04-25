@@ -1,0 +1,14 @@
+C:\Repos\workbench\SampleResilientClient\SampleClient\bin\Debug\SampleClient.exe
+C:\Repos\workbench\SampleResilientClient\SampleClient\bin\Debug\SampleClient.pdb
+C:\Repos\workbench\SampleResilientClient\SampleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Repos\workbench\SampleResilientClient\SampleClient\bin\Debug\Polly.dll
+C:\Repos\workbench\SampleResilientClient\SampleClient\bin\Debug\Polly.Extensions.Http.dll
+C:\Repos\workbench\SampleResilientClient\SampleClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Repos\workbench\SampleResilientClient\SampleClient\bin\Debug\Newtonsoft.Json.xml
+C:\Repos\workbench\SampleResilientClient\SampleClient\bin\Debug\Polly.xml
+C:\Repos\workbench\SampleResilientClient\SampleClient\bin\Debug\Polly.Extensions.Http.xml
+C:\Repos\workbench\SampleResilientClient\SampleClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Repos\workbench\SampleResilientClient\SampleClient\obj\Debug\SampleClient.csprojAssemblyReference.cache
+C:\Repos\workbench\SampleResilientClient\SampleClient\obj\Debug\SampleClient.csproj.CopyComplete
+C:\Repos\workbench\SampleResilientClient\SampleClient\obj\Debug\SampleClient.exe
+C:\Repos\workbench\SampleResilientClient\SampleClient\obj\Debug\SampleClient.pdb
